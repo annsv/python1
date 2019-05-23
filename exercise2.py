@@ -1,4 +1,4 @@
-#this comment might be only on features branch
+#this comment might be only on feature/new2 branch
 import math
 
 t = 5
